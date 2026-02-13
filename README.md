@@ -19,3 +19,11 @@ Dieses Projekt hilft bei der Verwaltung von:
 git clone https://github.com/Raouf-Mohamed/Mini-Hotel-Management-System.git
 cd Mini-Hotel-Management-System
 python hotel_management.py
+
+📁 Projektstruktur
+Mini-Hotel-Management-System/
+├── hotel_management.py   # Hauptdatei
+└── README.md            # Projektdokumentation
+
+👨‍💻 Entwickelt von
+Raouf Mohamed - Fachinformatiker für Anwendungsentwicklung
